@@ -74,7 +74,7 @@
       <br>Postman
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=typeScript" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
   <td align="center" width="96">
@@ -110,7 +110,7 @@
 
 ## :trophy: Muhammadali's Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMarketuz&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOdevco&theme=github_dark) 
 
 
 
@@ -119,10 +119,10 @@
 
 <p align="center">
 
-<a href="https://github.com/SMarketuz/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SMarketuz">
+<a href="https://github.com/MOdevco/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MOdevco">
 </a>
-    <a href="https://github.com/smarketuz?tab=followers">
-        <img src="https://img.shields.io/github/followers/SMarketr?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/MOdevco?tab=followers">
+        <img src="https://img.shields.io/github/followers/MOdevco?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
