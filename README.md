@@ -74,7 +74,7 @@
       <br>Postman
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typeScript" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       <br>JQuery
     </td>
   <td align="center" width="96">
